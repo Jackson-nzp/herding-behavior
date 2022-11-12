@@ -1,0 +1,2520 @@
+1.pdf
+1.synctex.gz
+1.tex
+11.tex
+17_post.xls
+17_pre.xls
+17_whole.xls
+17.xlsx
+18_csadwhole.xls
+18_post.xls
+18_pre.xls
+18_whole.xls
+18.xlsx
+处理逻辑.docx
+herding.py
+LaTeXTemplates_arsclassica-article_v1.1.zip
+paper_data.zip
+template.tex
+trans.py
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+00_indices/01_original_data/SWI_indices.CSV
+00_indices/02_processed_data/SWI_indices_Post.csv
+00_indices/02_processed_data/SWI_indices_Pre.csv
+00_indices/02_processed_data/SWI_indices_Whole.csv
+00_indices/03_time_res/17_6_1/SWI_indices_Post.csv
+00_indices/03_time_res/17_6_1/SWI_indices_Pre.csv
+00_indices/03_time_res/17_6_1/SWI_indices_Whole.csv
+00_indices/03_time_res/18_1_2/SWI_indices_Post.csv
+00_indices/03_time_res/18_1_2/SWI_indices_Pre.csv
+00_indices/03_time_res/18_1_2/SWI_indices_Whole.csv
+01_CCK/CCK.zip
+01_CCK/00_program/06_analysis.py
+01_CCK/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+01_CCK/01_original_data/Automobiles&Parts.CSV
+01_CCK/01_original_data/Banks.CSV
+01_CCK/01_original_data/Beauty Care.CSV
+01_CCK/01_original_data/Chemicals.CSV
+01_CCK/01_original_data/Commerce&Retail.CSV
+01_CCK/01_original_data/Comprehensive.CSV
+01_CCK/01_original_data/Computer.CSV
+01_CCK/01_original_data/Construction Materials.CSV
+01_CCK/01_original_data/Construction&Decoration.CSV
+01_CCK/01_original_data/Defense.CSV
+01_CCK/01_original_data/Electrical Equipment.CSV
+01_CCK/01_original_data/Electronics.CSV
+01_CCK/01_original_data/Enviromental Protection.CSV
+01_CCK/01_original_data/Food&Beverage.CSV
+01_CCK/01_original_data/Health Care.CSV
+01_CCK/01_original_data/Home Appliances.CSV
+01_CCK/01_original_data/Light-industry Manufacturing.CSV
+01_CCK/01_original_data/Machinery Equipment.CSV
+01_CCK/01_original_data/Media.CSV
+01_CCK/01_original_data/Mining.CSV
+01_CCK/01_original_data/Non-banking Finacials.CSV
+01_CCK/01_original_data/Nonferrous Metal.CSV
+01_CCK/01_original_data/Petrochemicals.CSV
+01_CCK/01_original_data/Real Estate.CSV
+01_CCK/01_original_data/Social Service.CSV
+01_CCK/01_original_data/Steel.CSV
+01_CCK/01_original_data/Telecommunication.CSV
+01_CCK/01_original_data/Textile&Apparel.CSV
+01_CCK/01_original_data/Transportation.CSV
+01_CCK/01_original_data/Utilities.CSV
+01_CCK/02_processed_data/CSAD_Post.csv
+01_CCK/02_processed_data/CSAD_Pre.csv
+01_CCK/02_processed_data/CSAD_Whole.csv
+01_CCK/03_stats/CSAD_Post.csv
+01_CCK/03_stats/CSAD_Pre.csv
+01_CCK/03_stats/CSAD_Whole.csv
+01_CCK/04_regression/Post/Agriculture,forestry,livestock farming,fishery .csv
+01_CCK/04_regression/Post/Agriculture,forestry,livestock farming,fishery .txt
+01_CCK/04_regression/Post/Automobiles&Parts     .csv
+01_CCK/04_regression/Post/Automobiles&Parts     .txt
+01_CCK/04_regression/Post/Banks                  .csv
+01_CCK/04_regression/Post/Banks                  .txt
+01_CCK/04_regression/Post/Beauty Care           .csv
+01_CCK/04_regression/Post/Beauty Care           .txt
+01_CCK/04_regression/Post/Chemicals             .csv
+01_CCK/04_regression/Post/Chemicals             .txt
+01_CCK/04_regression/Post/Commerce&Retail       .csv
+01_CCK/04_regression/Post/Commerce&Retail       .txt
+01_CCK/04_regression/Post/Comprehensive         .csv
+01_CCK/04_regression/Post/Comprehensive         .txt
+01_CCK/04_regression/Post/Computer              .csv
+01_CCK/04_regression/Post/Computer              .txt
+01_CCK/04_regression/Post/Construction Materials .csv
+01_CCK/04_regression/Post/Construction Materials .txt
+01_CCK/04_regression/Post/Construction&Decoration .csv
+01_CCK/04_regression/Post/Construction&Decoration .txt
+01_CCK/04_regression/Post/Defense               .csv
+01_CCK/04_regression/Post/Defense               .txt
+01_CCK/04_regression/Post/Electrical Equipment  .csv
+01_CCK/04_regression/Post/Electrical Equipment  .txt
+01_CCK/04_regression/Post/Electronics           .csv
+01_CCK/04_regression/Post/Electronics           .txt
+01_CCK/04_regression/Post/Enviromental Protection .csv
+01_CCK/04_regression/Post/Enviromental Protection .txt
+01_CCK/04_regression/Post/Food&Beverage         .csv
+01_CCK/04_regression/Post/Food&Beverage         .txt
+01_CCK/04_regression/Post/Health Care           .csv
+01_CCK/04_regression/Post/Health Care           .txt
+01_CCK/04_regression/Post/Home Appliances       .csv
+01_CCK/04_regression/Post/Home Appliances       .txt
+01_CCK/04_regression/Post/Light-industry Manufacturing .csv
+01_CCK/04_regression/Post/Light-industry Manufacturing .txt
+01_CCK/04_regression/Post/Machinery Equipment   .csv
+01_CCK/04_regression/Post/Machinery Equipment   .txt
+01_CCK/04_regression/Post/Media                 .csv
+01_CCK/04_regression/Post/Media                 .txt
+01_CCK/04_regression/Post/Mining                .csv
+01_CCK/04_regression/Post/Mining                .txt
+01_CCK/04_regression/Post/Non-banking Finacials  .csv
+01_CCK/04_regression/Post/Non-banking Finacials  .txt
+01_CCK/04_regression/Post/Nonferrous Metal      .csv
+01_CCK/04_regression/Post/Nonferrous Metal      .txt
+01_CCK/04_regression/Post/Petrochemicals        .csv
+01_CCK/04_regression/Post/Petrochemicals        .txt
+01_CCK/04_regression/Post/Real Estate           .csv
+01_CCK/04_regression/Post/Real Estate           .txt
+01_CCK/04_regression/Post/Social Service        .csv
+01_CCK/04_regression/Post/Social Service        .txt
+01_CCK/04_regression/Post/Steel                 .csv
+01_CCK/04_regression/Post/Steel                 .txt
+01_CCK/04_regression/Post/Telecommunication     .csv
+01_CCK/04_regression/Post/Telecommunication     .txt
+01_CCK/04_regression/Post/Textile&Apparel       .csv
+01_CCK/04_regression/Post/Textile&Apparel       .txt
+01_CCK/04_regression/Post/Transportation        .csv
+01_CCK/04_regression/Post/Transportation        .txt
+01_CCK/04_regression/Post/Utilities.csv
+01_CCK/04_regression/Post/Utilities.txt
+01_CCK/04_regression/Pre/Agriculture,forestry,livestock farming,fishery .csv
+01_CCK/04_regression/Pre/Agriculture,forestry,livestock farming,fishery .txt
+01_CCK/04_regression/Pre/Automobiles&Parts     .csv
+01_CCK/04_regression/Pre/Automobiles&Parts     .txt
+01_CCK/04_regression/Pre/Banks                  .csv
+01_CCK/04_regression/Pre/Banks                  .txt
+01_CCK/04_regression/Pre/Beauty Care           .csv
+01_CCK/04_regression/Pre/Beauty Care           .txt
+01_CCK/04_regression/Pre/Chemicals             .csv
+01_CCK/04_regression/Pre/Chemicals             .txt
+01_CCK/04_regression/Pre/Commerce&Retail       .csv
+01_CCK/04_regression/Pre/Commerce&Retail       .txt
+01_CCK/04_regression/Pre/Comprehensive         .csv
+01_CCK/04_regression/Pre/Comprehensive         .txt
+01_CCK/04_regression/Pre/Computer              .csv
+01_CCK/04_regression/Pre/Computer              .txt
+01_CCK/04_regression/Pre/Construction Materials .csv
+01_CCK/04_regression/Pre/Construction Materials .txt
+01_CCK/04_regression/Pre/Construction&Decoration .csv
+01_CCK/04_regression/Pre/Construction&Decoration .txt
+01_CCK/04_regression/Pre/Defense               .csv
+01_CCK/04_regression/Pre/Defense               .txt
+01_CCK/04_regression/Pre/Electrical Equipment  .csv
+01_CCK/04_regression/Pre/Electrical Equipment  .txt
+01_CCK/04_regression/Pre/Electronics           .csv
+01_CCK/04_regression/Pre/Electronics           .txt
+01_CCK/04_regression/Pre/Enviromental Protection .csv
+01_CCK/04_regression/Pre/Enviromental Protection .txt
+01_CCK/04_regression/Pre/Food&Beverage         .csv
+01_CCK/04_regression/Pre/Food&Beverage         .txt
+01_CCK/04_regression/Pre/Health Care           .csv
+01_CCK/04_regression/Pre/Health Care           .txt
+01_CCK/04_regression/Pre/Home Appliances       .csv
+01_CCK/04_regression/Pre/Home Appliances       .txt
+01_CCK/04_regression/Pre/Light-industry Manufacturing .csv
+01_CCK/04_regression/Pre/Light-industry Manufacturing .txt
+01_CCK/04_regression/Pre/Machinery Equipment   .csv
+01_CCK/04_regression/Pre/Machinery Equipment   .txt
+01_CCK/04_regression/Pre/Media                 .csv
+01_CCK/04_regression/Pre/Media                 .txt
+01_CCK/04_regression/Pre/Mining                .csv
+01_CCK/04_regression/Pre/Mining                .txt
+01_CCK/04_regression/Pre/Non-banking Finacials  .csv
+01_CCK/04_regression/Pre/Non-banking Finacials  .txt
+01_CCK/04_regression/Pre/Nonferrous Metal      .csv
+01_CCK/04_regression/Pre/Nonferrous Metal      .txt
+01_CCK/04_regression/Pre/Petrochemicals        .csv
+01_CCK/04_regression/Pre/Petrochemicals        .txt
+01_CCK/04_regression/Pre/Real Estate           .csv
+01_CCK/04_regression/Pre/Real Estate           .txt
+01_CCK/04_regression/Pre/Social Service        .csv
+01_CCK/04_regression/Pre/Social Service        .txt
+01_CCK/04_regression/Pre/Steel                 .csv
+01_CCK/04_regression/Pre/Steel                 .txt
+01_CCK/04_regression/Pre/Telecommunication     .csv
+01_CCK/04_regression/Pre/Telecommunication     .txt
+01_CCK/04_regression/Pre/Textile&Apparel       .csv
+01_CCK/04_regression/Pre/Textile&Apparel       .txt
+01_CCK/04_regression/Pre/Transportation        .csv
+01_CCK/04_regression/Pre/Transportation        .txt
+01_CCK/04_regression/Pre/Utilities.csv
+01_CCK/04_regression/Pre/Utilities.txt
+01_CCK/04_regression/Whole/Agriculture,forestry,livestock farming,fishery .csv
+01_CCK/04_regression/Whole/Agriculture,forestry,livestock farming,fishery .txt
+01_CCK/04_regression/Whole/Automobiles&Parts     .csv
+01_CCK/04_regression/Whole/Automobiles&Parts     .txt
+01_CCK/04_regression/Whole/Banks                  .csv
+01_CCK/04_regression/Whole/Banks                  .txt
+01_CCK/04_regression/Whole/Beauty Care           .csv
+01_CCK/04_regression/Whole/Beauty Care           .txt
+01_CCK/04_regression/Whole/Chemicals             .csv
+01_CCK/04_regression/Whole/Chemicals             .txt
+01_CCK/04_regression/Whole/Commerce&Retail       .csv
+01_CCK/04_regression/Whole/Commerce&Retail       .txt
+01_CCK/04_regression/Whole/Comprehensive         .csv
+01_CCK/04_regression/Whole/Comprehensive         .txt
+01_CCK/04_regression/Whole/Computer              .csv
+01_CCK/04_regression/Whole/Computer              .txt
+01_CCK/04_regression/Whole/Construction Materials .csv
+01_CCK/04_regression/Whole/Construction Materials .txt
+01_CCK/04_regression/Whole/Construction&Decoration .csv
+01_CCK/04_regression/Whole/Construction&Decoration .txt
+01_CCK/04_regression/Whole/Defense               .csv
+01_CCK/04_regression/Whole/Defense               .txt
+01_CCK/04_regression/Whole/Electrical Equipment  .csv
+01_CCK/04_regression/Whole/Electrical Equipment  .txt
+01_CCK/04_regression/Whole/Electronics           .csv
+01_CCK/04_regression/Whole/Electronics           .txt
+01_CCK/04_regression/Whole/Enviromental Protection .csv
+01_CCK/04_regression/Whole/Enviromental Protection .txt
+01_CCK/04_regression/Whole/Food&Beverage         .csv
+01_CCK/04_regression/Whole/Food&Beverage         .txt
+01_CCK/04_regression/Whole/Health Care           .csv
+01_CCK/04_regression/Whole/Health Care           .txt
+01_CCK/04_regression/Whole/Home Appliances       .csv
+01_CCK/04_regression/Whole/Home Appliances       .txt
+01_CCK/04_regression/Whole/Light-industry Manufacturing .csv
+01_CCK/04_regression/Whole/Light-industry Manufacturing .txt
+01_CCK/04_regression/Whole/Machinery Equipment   .csv
+01_CCK/04_regression/Whole/Machinery Equipment   .txt
+01_CCK/04_regression/Whole/Media                 .csv
+01_CCK/04_regression/Whole/Media                 .txt
+01_CCK/04_regression/Whole/Mining                .csv
+01_CCK/04_regression/Whole/Mining                .txt
+01_CCK/04_regression/Whole/Non-banking Finacials  .csv
+01_CCK/04_regression/Whole/Non-banking Finacials  .txt
+01_CCK/04_regression/Whole/Nonferrous Metal      .csv
+01_CCK/04_regression/Whole/Nonferrous Metal      .txt
+01_CCK/04_regression/Whole/Petrochemicals        .csv
+01_CCK/04_regression/Whole/Petrochemicals        .txt
+01_CCK/04_regression/Whole/Real Estate           .csv
+01_CCK/04_regression/Whole/Real Estate           .txt
+01_CCK/04_regression/Whole/Social Service        .csv
+01_CCK/04_regression/Whole/Social Service        .txt
+01_CCK/04_regression/Whole/Steel                 .csv
+01_CCK/04_regression/Whole/Steel                 .txt
+01_CCK/04_regression/Whole/Telecommunication     .csv
+01_CCK/04_regression/Whole/Telecommunication     .txt
+01_CCK/04_regression/Whole/Textile&Apparel       .csv
+01_CCK/04_regression/Whole/Textile&Apparel       .txt
+01_CCK/04_regression/Whole/Transportation        .csv
+01_CCK/04_regression/Whole/Transportation        .txt
+01_CCK/04_regression/Whole/Utilities.csv
+01_CCK/04_regression/Whole/Utilities.txt
+01_CCK/05_chow/chow_19.txt
+01_CCK/06_fig/Agriculture,forestry,livestock farming,fishery.png
+01_CCK/06_fig/Automobiles&Parts.png
+01_CCK/06_fig/Banks.png
+01_CCK/06_fig/Beauty Care.png
+01_CCK/06_fig/Chemicals.png
+01_CCK/06_fig/Commerce&Retail.png
+01_CCK/06_fig/Comprehensive.png
+01_CCK/06_fig/Computer.png
+01_CCK/06_fig/Construction Materials.png
+01_CCK/06_fig/Construction&Decoration.png
+01_CCK/06_fig/Defense.png
+01_CCK/06_fig/Electrical Equipment.png
+01_CCK/06_fig/Electronics.png
+01_CCK/06_fig/Enviromental Protection.png
+01_CCK/06_fig/Food&Beverage.png
+01_CCK/06_fig/Health Care.png
+01_CCK/06_fig/Home Appliances.png
+01_CCK/06_fig/Light-industry Manufacturing.png
+01_CCK/06_fig/Machinery Equipment.png
+01_CCK/06_fig/Media.png
+01_CCK/06_fig/Mining.png
+01_CCK/06_fig/Non-banking Finacials.png
+01_CCK/06_fig/Nonferrous Metal.png
+01_CCK/06_fig/Petrochemicals.png
+01_CCK/06_fig/Real Estate.png
+01_CCK/06_fig/Social Service.png
+01_CCK/06_fig/Steel.png
+01_CCK/06_fig/Telecommunication.png
+01_CCK/06_fig/Textile&Apparel.png
+01_CCK/06_fig/Transportation.png
+01_CCK/06_fig/Utilities.png
+01_CCK/07_analysis/Post.csv
+01_CCK/07_analysis/Pre.csv
+01_CCK/07_analysis/Whole.csv
+02_time_res/17_6_1/17_6_1.zip
+02_time_res/17_6_1/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+02_time_res/17_6_1/01_original_data/Automobiles&Parts.CSV
+02_time_res/17_6_1/01_original_data/Banks.CSV
+02_time_res/17_6_1/01_original_data/Beauty Care.CSV
+02_time_res/17_6_1/01_original_data/Chemicals.CSV
+02_time_res/17_6_1/01_original_data/Commerce&Retail.CSV
+02_time_res/17_6_1/01_original_data/Comprehensive.CSV
+02_time_res/17_6_1/01_original_data/Computer.CSV
+02_time_res/17_6_1/01_original_data/Construction Materials.CSV
+02_time_res/17_6_1/01_original_data/Construction&Decoration.CSV
+02_time_res/17_6_1/01_original_data/Defense.CSV
+02_time_res/17_6_1/01_original_data/Electrical Equipment.CSV
+02_time_res/17_6_1/01_original_data/Electronics.CSV
+02_time_res/17_6_1/01_original_data/Enviromental Protection.CSV
+02_time_res/17_6_1/01_original_data/Food&Beverage.CSV
+02_time_res/17_6_1/01_original_data/Health Care.CSV
+02_time_res/17_6_1/01_original_data/Home Appliances.CSV
+02_time_res/17_6_1/01_original_data/Light-industry Manufacturing.CSV
+02_time_res/17_6_1/01_original_data/Machinery Equipment.CSV
+02_time_res/17_6_1/01_original_data/Media.CSV
+02_time_res/17_6_1/01_original_data/Mining.CSV
+02_time_res/17_6_1/01_original_data/Non-banking Finacials.CSV
+02_time_res/17_6_1/01_original_data/Nonferrous Metal.CSV
+02_time_res/17_6_1/01_original_data/Petrochemicals.CSV
+02_time_res/17_6_1/01_original_data/Real Estate.CSV
+02_time_res/17_6_1/01_original_data/Social Service.CSV
+02_time_res/17_6_1/01_original_data/Steel.CSV
+02_time_res/17_6_1/01_original_data/Telecommunication.CSV
+02_time_res/17_6_1/01_original_data/Textile&Apparel.CSV
+02_time_res/17_6_1/01_original_data/Transportation.CSV
+02_time_res/17_6_1/01_original_data/Utilities.CSV
+02_time_res/17_6_1/02_processed_data/CSAD_Post.csv
+02_time_res/17_6_1/02_processed_data/CSAD_Pre.csv
+02_time_res/17_6_1/02_processed_data/CSAD_Whole.csv
+02_time_res/17_6_1/03_stats/CSAD_Post.csv
+02_time_res/17_6_1/03_stats/CSAD_Pre.csv
+02_time_res/17_6_1/03_stats/CSAD_Whole.csv
+02_time_res/17_6_1/04_regression/Post/Agriculture,forestry,livestock farming,fishery .csv
+02_time_res/17_6_1/04_regression/Post/Agriculture,forestry,livestock farming,fishery .txt
+02_time_res/17_6_1/04_regression/Post/Automobiles&Parts     .csv
+02_time_res/17_6_1/04_regression/Post/Automobiles&Parts     .txt
+02_time_res/17_6_1/04_regression/Post/Banks                  .csv
+02_time_res/17_6_1/04_regression/Post/Banks                  .txt
+02_time_res/17_6_1/04_regression/Post/Beauty Care           .csv
+02_time_res/17_6_1/04_regression/Post/Beauty Care           .txt
+02_time_res/17_6_1/04_regression/Post/Chemicals             .csv
+02_time_res/17_6_1/04_regression/Post/Chemicals             .txt
+02_time_res/17_6_1/04_regression/Post/Commerce&Retail       .csv
+02_time_res/17_6_1/04_regression/Post/Commerce&Retail       .txt
+02_time_res/17_6_1/04_regression/Post/Comprehensive         .csv
+02_time_res/17_6_1/04_regression/Post/Comprehensive         .txt
+02_time_res/17_6_1/04_regression/Post/Computer              .csv
+02_time_res/17_6_1/04_regression/Post/Computer              .txt
+02_time_res/17_6_1/04_regression/Post/Construction Materials .csv
+02_time_res/17_6_1/04_regression/Post/Construction Materials .txt
+02_time_res/17_6_1/04_regression/Post/Construction&Decoration .csv
+02_time_res/17_6_1/04_regression/Post/Construction&Decoration .txt
+02_time_res/17_6_1/04_regression/Post/Defense               .csv
+02_time_res/17_6_1/04_regression/Post/Defense               .txt
+02_time_res/17_6_1/04_regression/Post/Electrical Equipment  .csv
+02_time_res/17_6_1/04_regression/Post/Electrical Equipment  .txt
+02_time_res/17_6_1/04_regression/Post/Electronics           .csv
+02_time_res/17_6_1/04_regression/Post/Electronics           .txt
+02_time_res/17_6_1/04_regression/Post/Enviromental Protection .csv
+02_time_res/17_6_1/04_regression/Post/Enviromental Protection .txt
+02_time_res/17_6_1/04_regression/Post/Food&Beverage         .csv
+02_time_res/17_6_1/04_regression/Post/Food&Beverage         .txt
+02_time_res/17_6_1/04_regression/Post/Health Care           .csv
+02_time_res/17_6_1/04_regression/Post/Health Care           .txt
+02_time_res/17_6_1/04_regression/Post/Home Appliances       .csv
+02_time_res/17_6_1/04_regression/Post/Home Appliances       .txt
+02_time_res/17_6_1/04_regression/Post/Light-industry Manufacturing .csv
+02_time_res/17_6_1/04_regression/Post/Light-industry Manufacturing .txt
+02_time_res/17_6_1/04_regression/Post/Machinery Equipment   .csv
+02_time_res/17_6_1/04_regression/Post/Machinery Equipment   .txt
+02_time_res/17_6_1/04_regression/Post/Media                 .csv
+02_time_res/17_6_1/04_regression/Post/Media                 .txt
+02_time_res/17_6_1/04_regression/Post/Mining                .csv
+02_time_res/17_6_1/04_regression/Post/Mining                .txt
+02_time_res/17_6_1/04_regression/Post/Non-banking Finacials  .csv
+02_time_res/17_6_1/04_regression/Post/Non-banking Finacials  .txt
+02_time_res/17_6_1/04_regression/Post/Nonferrous Metal      .csv
+02_time_res/17_6_1/04_regression/Post/Nonferrous Metal      .txt
+02_time_res/17_6_1/04_regression/Post/Petrochemicals        .csv
+02_time_res/17_6_1/04_regression/Post/Petrochemicals        .txt
+02_time_res/17_6_1/04_regression/Post/Real Estate           .csv
+02_time_res/17_6_1/04_regression/Post/Real Estate           .txt
+02_time_res/17_6_1/04_regression/Post/Social Service        .csv
+02_time_res/17_6_1/04_regression/Post/Social Service        .txt
+02_time_res/17_6_1/04_regression/Post/Steel                 .csv
+02_time_res/17_6_1/04_regression/Post/Steel                 .txt
+02_time_res/17_6_1/04_regression/Post/Telecommunication     .csv
+02_time_res/17_6_1/04_regression/Post/Telecommunication     .txt
+02_time_res/17_6_1/04_regression/Post/Textile&Apparel       .csv
+02_time_res/17_6_1/04_regression/Post/Textile&Apparel       .txt
+02_time_res/17_6_1/04_regression/Post/Transportation        .csv
+02_time_res/17_6_1/04_regression/Post/Transportation        .txt
+02_time_res/17_6_1/04_regression/Post/Utilities.csv
+02_time_res/17_6_1/04_regression/Post/Utilities.txt
+02_time_res/17_6_1/04_regression/Pre/Agriculture,forestry,livestock farming,fishery .csv
+02_time_res/17_6_1/04_regression/Pre/Agriculture,forestry,livestock farming,fishery .txt
+02_time_res/17_6_1/04_regression/Pre/Automobiles&Parts     .csv
+02_time_res/17_6_1/04_regression/Pre/Automobiles&Parts     .txt
+02_time_res/17_6_1/04_regression/Pre/Banks                  .csv
+02_time_res/17_6_1/04_regression/Pre/Banks                  .txt
+02_time_res/17_6_1/04_regression/Pre/Beauty Care           .csv
+02_time_res/17_6_1/04_regression/Pre/Beauty Care           .txt
+02_time_res/17_6_1/04_regression/Pre/Chemicals             .csv
+02_time_res/17_6_1/04_regression/Pre/Chemicals             .txt
+02_time_res/17_6_1/04_regression/Pre/Commerce&Retail       .csv
+02_time_res/17_6_1/04_regression/Pre/Commerce&Retail       .txt
+02_time_res/17_6_1/04_regression/Pre/Comprehensive         .csv
+02_time_res/17_6_1/04_regression/Pre/Comprehensive         .txt
+02_time_res/17_6_1/04_regression/Pre/Computer              .csv
+02_time_res/17_6_1/04_regression/Pre/Computer              .txt
+02_time_res/17_6_1/04_regression/Pre/Construction Materials .csv
+02_time_res/17_6_1/04_regression/Pre/Construction Materials .txt
+02_time_res/17_6_1/04_regression/Pre/Construction&Decoration .csv
+02_time_res/17_6_1/04_regression/Pre/Construction&Decoration .txt
+02_time_res/17_6_1/04_regression/Pre/Defense               .csv
+02_time_res/17_6_1/04_regression/Pre/Defense               .txt
+02_time_res/17_6_1/04_regression/Pre/Electrical Equipment  .csv
+02_time_res/17_6_1/04_regression/Pre/Electrical Equipment  .txt
+02_time_res/17_6_1/04_regression/Pre/Electronics           .csv
+02_time_res/17_6_1/04_regression/Pre/Electronics           .txt
+02_time_res/17_6_1/04_regression/Pre/Enviromental Protection .csv
+02_time_res/17_6_1/04_regression/Pre/Enviromental Protection .txt
+02_time_res/17_6_1/04_regression/Pre/Food&Beverage         .csv
+02_time_res/17_6_1/04_regression/Pre/Food&Beverage         .txt
+02_time_res/17_6_1/04_regression/Pre/Health Care           .csv
+02_time_res/17_6_1/04_regression/Pre/Health Care           .txt
+02_time_res/17_6_1/04_regression/Pre/Home Appliances       .csv
+02_time_res/17_6_1/04_regression/Pre/Home Appliances       .txt
+02_time_res/17_6_1/04_regression/Pre/Light-industry Manufacturing .csv
+02_time_res/17_6_1/04_regression/Pre/Light-industry Manufacturing .txt
+02_time_res/17_6_1/04_regression/Pre/Machinery Equipment   .csv
+02_time_res/17_6_1/04_regression/Pre/Machinery Equipment   .txt
+02_time_res/17_6_1/04_regression/Pre/Media                 .csv
+02_time_res/17_6_1/04_regression/Pre/Media                 .txt
+02_time_res/17_6_1/04_regression/Pre/Mining                .csv
+02_time_res/17_6_1/04_regression/Pre/Mining                .txt
+02_time_res/17_6_1/04_regression/Pre/Non-banking Finacials  .csv
+02_time_res/17_6_1/04_regression/Pre/Non-banking Finacials  .txt
+02_time_res/17_6_1/04_regression/Pre/Nonferrous Metal      .csv
+02_time_res/17_6_1/04_regression/Pre/Nonferrous Metal      .txt
+02_time_res/17_6_1/04_regression/Pre/Petrochemicals        .csv
+02_time_res/17_6_1/04_regression/Pre/Petrochemicals        .txt
+02_time_res/17_6_1/04_regression/Pre/Real Estate           .csv
+02_time_res/17_6_1/04_regression/Pre/Real Estate           .txt
+02_time_res/17_6_1/04_regression/Pre/Social Service        .csv
+02_time_res/17_6_1/04_regression/Pre/Social Service        .txt
+02_time_res/17_6_1/04_regression/Pre/Steel                 .csv
+02_time_res/17_6_1/04_regression/Pre/Steel                 .txt
+02_time_res/17_6_1/04_regression/Pre/Telecommunication     .csv
+02_time_res/17_6_1/04_regression/Pre/Telecommunication     .txt
+02_time_res/17_6_1/04_regression/Pre/Textile&Apparel       .csv
+02_time_res/17_6_1/04_regression/Pre/Textile&Apparel       .txt
+02_time_res/17_6_1/04_regression/Pre/Transportation        .csv
+02_time_res/17_6_1/04_regression/Pre/Transportation        .txt
+02_time_res/17_6_1/04_regression/Pre/Utilities.csv
+02_time_res/17_6_1/04_regression/Pre/Utilities.txt
+02_time_res/17_6_1/04_regression/Whole/Agriculture,forestry,livestock farming,fishery .csv
+02_time_res/17_6_1/04_regression/Whole/Agriculture,forestry,livestock farming,fishery .txt
+02_time_res/17_6_1/04_regression/Whole/Automobiles&Parts     .csv
+02_time_res/17_6_1/04_regression/Whole/Automobiles&Parts     .txt
+02_time_res/17_6_1/04_regression/Whole/Banks                  .csv
+02_time_res/17_6_1/04_regression/Whole/Banks                  .txt
+02_time_res/17_6_1/04_regression/Whole/Beauty Care           .csv
+02_time_res/17_6_1/04_regression/Whole/Beauty Care           .txt
+02_time_res/17_6_1/04_regression/Whole/Chemicals             .csv
+02_time_res/17_6_1/04_regression/Whole/Chemicals             .txt
+02_time_res/17_6_1/04_regression/Whole/Commerce&Retail       .csv
+02_time_res/17_6_1/04_regression/Whole/Commerce&Retail       .txt
+02_time_res/17_6_1/04_regression/Whole/Comprehensive         .csv
+02_time_res/17_6_1/04_regression/Whole/Comprehensive         .txt
+02_time_res/17_6_1/04_regression/Whole/Computer              .csv
+02_time_res/17_6_1/04_regression/Whole/Computer              .txt
+02_time_res/17_6_1/04_regression/Whole/Construction Materials .csv
+02_time_res/17_6_1/04_regression/Whole/Construction Materials .txt
+02_time_res/17_6_1/04_regression/Whole/Construction&Decoration .csv
+02_time_res/17_6_1/04_regression/Whole/Construction&Decoration .txt
+02_time_res/17_6_1/04_regression/Whole/Defense               .csv
+02_time_res/17_6_1/04_regression/Whole/Defense               .txt
+02_time_res/17_6_1/04_regression/Whole/Electrical Equipment  .csv
+02_time_res/17_6_1/04_regression/Whole/Electrical Equipment  .txt
+02_time_res/17_6_1/04_regression/Whole/Electronics           .csv
+02_time_res/17_6_1/04_regression/Whole/Electronics           .txt
+02_time_res/17_6_1/04_regression/Whole/Enviromental Protection .csv
+02_time_res/17_6_1/04_regression/Whole/Enviromental Protection .txt
+02_time_res/17_6_1/04_regression/Whole/Food&Beverage         .csv
+02_time_res/17_6_1/04_regression/Whole/Food&Beverage         .txt
+02_time_res/17_6_1/04_regression/Whole/Health Care           .csv
+02_time_res/17_6_1/04_regression/Whole/Health Care           .txt
+02_time_res/17_6_1/04_regression/Whole/Home Appliances       .csv
+02_time_res/17_6_1/04_regression/Whole/Home Appliances       .txt
+02_time_res/17_6_1/04_regression/Whole/Light-industry Manufacturing .csv
+02_time_res/17_6_1/04_regression/Whole/Light-industry Manufacturing .txt
+02_time_res/17_6_1/04_regression/Whole/Machinery Equipment   .csv
+02_time_res/17_6_1/04_regression/Whole/Machinery Equipment   .txt
+02_time_res/17_6_1/04_regression/Whole/Media                 .csv
+02_time_res/17_6_1/04_regression/Whole/Media                 .txt
+02_time_res/17_6_1/04_regression/Whole/Mining                .csv
+02_time_res/17_6_1/04_regression/Whole/Mining                .txt
+02_time_res/17_6_1/04_regression/Whole/Non-banking Finacials  .csv
+02_time_res/17_6_1/04_regression/Whole/Non-banking Finacials  .txt
+02_time_res/17_6_1/04_regression/Whole/Nonferrous Metal      .csv
+02_time_res/17_6_1/04_regression/Whole/Nonferrous Metal      .txt
+02_time_res/17_6_1/04_regression/Whole/Petrochemicals        .csv
+02_time_res/17_6_1/04_regression/Whole/Petrochemicals        .txt
+02_time_res/17_6_1/04_regression/Whole/Real Estate           .csv
+02_time_res/17_6_1/04_regression/Whole/Real Estate           .txt
+02_time_res/17_6_1/04_regression/Whole/Social Service        .csv
+02_time_res/17_6_1/04_regression/Whole/Social Service        .txt
+02_time_res/17_6_1/04_regression/Whole/Steel                 .csv
+02_time_res/17_6_1/04_regression/Whole/Steel                 .txt
+02_time_res/17_6_1/04_regression/Whole/Telecommunication     .csv
+02_time_res/17_6_1/04_regression/Whole/Telecommunication     .txt
+02_time_res/17_6_1/04_regression/Whole/Textile&Apparel       .csv
+02_time_res/17_6_1/04_regression/Whole/Textile&Apparel       .txt
+02_time_res/17_6_1/04_regression/Whole/Transportation        .csv
+02_time_res/17_6_1/04_regression/Whole/Transportation        .txt
+02_time_res/17_6_1/04_regression/Whole/Utilities.csv
+02_time_res/17_6_1/04_regression/Whole/Utilities.txt
+02_time_res/17_6_1/05_chow/chow_19.txt
+02_time_res/17_6_1/05_chow/chow_time.txt
+02_time_res/17_6_1/06_fig/Agriculture,forestry,livestock farming,fishery.png
+02_time_res/17_6_1/06_fig/Automobiles&Parts.png
+02_time_res/17_6_1/06_fig/Banks.png
+02_time_res/17_6_1/06_fig/Beauty Care.png
+02_time_res/17_6_1/06_fig/Chemicals.png
+02_time_res/17_6_1/06_fig/Commerce&Retail.png
+02_time_res/17_6_1/06_fig/Comprehensive.png
+02_time_res/17_6_1/06_fig/Computer.png
+02_time_res/17_6_1/06_fig/Construction Materials.png
+02_time_res/17_6_1/06_fig/Construction&Decoration.png
+02_time_res/17_6_1/06_fig/Defense.png
+02_time_res/17_6_1/06_fig/Electrical Equipment.png
+02_time_res/17_6_1/06_fig/Electronics.png
+02_time_res/17_6_1/06_fig/Enviromental Protection.png
+02_time_res/17_6_1/06_fig/Food&Beverage.png
+02_time_res/17_6_1/06_fig/Health Care.png
+02_time_res/17_6_1/06_fig/Home Appliances.png
+02_time_res/17_6_1/06_fig/Light-industry Manufacturing.png
+02_time_res/17_6_1/06_fig/Machinery Equipment.png
+02_time_res/17_6_1/06_fig/Media.png
+02_time_res/17_6_1/06_fig/Mining.png
+02_time_res/17_6_1/06_fig/Non-banking Finacials.png
+02_time_res/17_6_1/06_fig/Nonferrous Metal.png
+02_time_res/17_6_1/06_fig/Petrochemicals.png
+02_time_res/17_6_1/06_fig/Real Estate.png
+02_time_res/17_6_1/06_fig/Social Service.png
+02_time_res/17_6_1/06_fig/Steel.png
+02_time_res/17_6_1/06_fig/Telecommunication.png
+02_time_res/17_6_1/06_fig/Textile&Apparel.png
+02_time_res/17_6_1/06_fig/Transportation.png
+02_time_res/17_6_1/06_fig/Utilities.png
+02_time_res/17_6_1/07_analysis/Post.csv
+02_time_res/17_6_1/07_analysis/Pre.csv
+02_time_res/17_6_1/07_analysis/Whole.csv
+02_time_res/18_1_2/18_1_2.zip
+02_time_res/18_1_2/00_program/00_plot.py
+02_time_res/18_1_2/00_program/02_split.py
+02_time_res/18_1_2/00_program/03_stats.py
+02_time_res/18_1_2/00_program/04_regression.py
+02_time_res/18_1_2/00_program/05_chowtest_19.py
+02_time_res/18_1_2/00_program/06_chowtest_time.py
+02_time_res/18_1_2/00_program/07_analysis.py
+02_time_res/18_1_2/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+02_time_res/18_1_2/01_original_data/Automobiles&Parts.CSV
+02_time_res/18_1_2/01_original_data/Banks.CSV
+02_time_res/18_1_2/01_original_data/Beauty Care.CSV
+02_time_res/18_1_2/01_original_data/Chemicals.CSV
+02_time_res/18_1_2/01_original_data/Commerce&Retail.CSV
+02_time_res/18_1_2/01_original_data/Comprehensive.CSV
+02_time_res/18_1_2/01_original_data/Computer.CSV
+02_time_res/18_1_2/01_original_data/Construction Materials.CSV
+02_time_res/18_1_2/01_original_data/Construction&Decoration.CSV
+02_time_res/18_1_2/01_original_data/Defense.CSV
+02_time_res/18_1_2/01_original_data/Electrical Equipment.CSV
+02_time_res/18_1_2/01_original_data/Electronics.CSV
+02_time_res/18_1_2/01_original_data/Enviromental Protection.CSV
+02_time_res/18_1_2/01_original_data/Food&Beverage.CSV
+02_time_res/18_1_2/01_original_data/Health Care.CSV
+02_time_res/18_1_2/01_original_data/Home Appliances.CSV
+02_time_res/18_1_2/01_original_data/Light-industry Manufacturing.CSV
+02_time_res/18_1_2/01_original_data/Machinery Equipment.CSV
+02_time_res/18_1_2/01_original_data/Media.CSV
+02_time_res/18_1_2/01_original_data/Mining.CSV
+02_time_res/18_1_2/01_original_data/Non-banking Finacials.CSV
+02_time_res/18_1_2/01_original_data/Nonferrous Metal.CSV
+02_time_res/18_1_2/01_original_data/Petrochemicals.CSV
+02_time_res/18_1_2/01_original_data/Real Estate.CSV
+02_time_res/18_1_2/01_original_data/Social Service.CSV
+02_time_res/18_1_2/01_original_data/Steel.CSV
+02_time_res/18_1_2/01_original_data/Telecommunication.CSV
+02_time_res/18_1_2/01_original_data/Textile&Apparel.CSV
+02_time_res/18_1_2/01_original_data/Transportation.CSV
+02_time_res/18_1_2/01_original_data/Utilities.CSV
+02_time_res/18_1_2/02_processed_data/CSAD_Post.csv
+02_time_res/18_1_2/02_processed_data/CSAD_Pre.csv
+02_time_res/18_1_2/02_processed_data/CSAD_Whole.csv
+02_time_res/18_1_2/03_stats/CSAD_Post.csv
+02_time_res/18_1_2/03_stats/CSAD_Pre.csv
+02_time_res/18_1_2/03_stats/CSAD_Whole.csv
+02_time_res/18_1_2/04_regression/Post/Agriculture,forestry,livestock farming,fishery .csv
+02_time_res/18_1_2/04_regression/Post/Agriculture,forestry,livestock farming,fishery .txt
+02_time_res/18_1_2/04_regression/Post/Automobiles&Parts     .csv
+02_time_res/18_1_2/04_regression/Post/Automobiles&Parts     .txt
+02_time_res/18_1_2/04_regression/Post/Banks                  .csv
+02_time_res/18_1_2/04_regression/Post/Banks                  .txt
+02_time_res/18_1_2/04_regression/Post/Beauty Care           .csv
+02_time_res/18_1_2/04_regression/Post/Beauty Care           .txt
+02_time_res/18_1_2/04_regression/Post/Chemicals             .csv
+02_time_res/18_1_2/04_regression/Post/Chemicals             .txt
+02_time_res/18_1_2/04_regression/Post/Commerce&Retail       .csv
+02_time_res/18_1_2/04_regression/Post/Commerce&Retail       .txt
+02_time_res/18_1_2/04_regression/Post/Comprehensive         .csv
+02_time_res/18_1_2/04_regression/Post/Comprehensive         .txt
+02_time_res/18_1_2/04_regression/Post/Computer              .csv
+02_time_res/18_1_2/04_regression/Post/Computer              .txt
+02_time_res/18_1_2/04_regression/Post/Construction Materials .csv
+02_time_res/18_1_2/04_regression/Post/Construction Materials .txt
+02_time_res/18_1_2/04_regression/Post/Construction&Decoration .csv
+02_time_res/18_1_2/04_regression/Post/Construction&Decoration .txt
+02_time_res/18_1_2/04_regression/Post/Defense               .csv
+02_time_res/18_1_2/04_regression/Post/Defense               .txt
+02_time_res/18_1_2/04_regression/Post/Electrical Equipment  .csv
+02_time_res/18_1_2/04_regression/Post/Electrical Equipment  .txt
+02_time_res/18_1_2/04_regression/Post/Electronics           .csv
+02_time_res/18_1_2/04_regression/Post/Electronics           .txt
+02_time_res/18_1_2/04_regression/Post/Enviromental Protection .csv
+02_time_res/18_1_2/04_regression/Post/Enviromental Protection .txt
+02_time_res/18_1_2/04_regression/Post/Food&Beverage         .csv
+02_time_res/18_1_2/04_regression/Post/Food&Beverage         .txt
+02_time_res/18_1_2/04_regression/Post/Health Care           .csv
+02_time_res/18_1_2/04_regression/Post/Health Care           .txt
+02_time_res/18_1_2/04_regression/Post/Home Appliances       .csv
+02_time_res/18_1_2/04_regression/Post/Home Appliances       .txt
+02_time_res/18_1_2/04_regression/Post/Light-industry Manufacturing .csv
+02_time_res/18_1_2/04_regression/Post/Light-industry Manufacturing .txt
+02_time_res/18_1_2/04_regression/Post/Machinery Equipment   .csv
+02_time_res/18_1_2/04_regression/Post/Machinery Equipment   .txt
+02_time_res/18_1_2/04_regression/Post/Media                 .csv
+02_time_res/18_1_2/04_regression/Post/Media                 .txt
+02_time_res/18_1_2/04_regression/Post/Mining                .csv
+02_time_res/18_1_2/04_regression/Post/Mining                .txt
+02_time_res/18_1_2/04_regression/Post/Non-banking Finacials  .csv
+02_time_res/18_1_2/04_regression/Post/Non-banking Finacials  .txt
+02_time_res/18_1_2/04_regression/Post/Nonferrous Metal      .csv
+02_time_res/18_1_2/04_regression/Post/Nonferrous Metal      .txt
+02_time_res/18_1_2/04_regression/Post/Petrochemicals        .csv
+02_time_res/18_1_2/04_regression/Post/Petrochemicals        .txt
+02_time_res/18_1_2/04_regression/Post/Real Estate           .csv
+02_time_res/18_1_2/04_regression/Post/Real Estate           .txt
+02_time_res/18_1_2/04_regression/Post/Social Service        .csv
+02_time_res/18_1_2/04_regression/Post/Social Service        .txt
+02_time_res/18_1_2/04_regression/Post/Steel                 .csv
+02_time_res/18_1_2/04_regression/Post/Steel                 .txt
+02_time_res/18_1_2/04_regression/Post/Telecommunication     .csv
+02_time_res/18_1_2/04_regression/Post/Telecommunication     .txt
+02_time_res/18_1_2/04_regression/Post/Textile&Apparel       .csv
+02_time_res/18_1_2/04_regression/Post/Textile&Apparel       .txt
+02_time_res/18_1_2/04_regression/Post/Transportation        .csv
+02_time_res/18_1_2/04_regression/Post/Transportation        .txt
+02_time_res/18_1_2/04_regression/Post/Utilities.csv
+02_time_res/18_1_2/04_regression/Post/Utilities.txt
+02_time_res/18_1_2/04_regression/Pre/Agriculture,forestry,livestock farming,fishery .csv
+02_time_res/18_1_2/04_regression/Pre/Agriculture,forestry,livestock farming,fishery .txt
+02_time_res/18_1_2/04_regression/Pre/Automobiles&Parts     .csv
+02_time_res/18_1_2/04_regression/Pre/Automobiles&Parts     .txt
+02_time_res/18_1_2/04_regression/Pre/Banks                  .csv
+02_time_res/18_1_2/04_regression/Pre/Banks                  .txt
+02_time_res/18_1_2/04_regression/Pre/Beauty Care           .csv
+02_time_res/18_1_2/04_regression/Pre/Beauty Care           .txt
+02_time_res/18_1_2/04_regression/Pre/Chemicals             .csv
+02_time_res/18_1_2/04_regression/Pre/Chemicals             .txt
+02_time_res/18_1_2/04_regression/Pre/Commerce&Retail       .csv
+02_time_res/18_1_2/04_regression/Pre/Commerce&Retail       .txt
+02_time_res/18_1_2/04_regression/Pre/Comprehensive         .csv
+02_time_res/18_1_2/04_regression/Pre/Comprehensive         .txt
+02_time_res/18_1_2/04_regression/Pre/Computer              .csv
+02_time_res/18_1_2/04_regression/Pre/Computer              .txt
+02_time_res/18_1_2/04_regression/Pre/Construction Materials .csv
+02_time_res/18_1_2/04_regression/Pre/Construction Materials .txt
+02_time_res/18_1_2/04_regression/Pre/Construction&Decoration .csv
+02_time_res/18_1_2/04_regression/Pre/Construction&Decoration .txt
+02_time_res/18_1_2/04_regression/Pre/Defense               .csv
+02_time_res/18_1_2/04_regression/Pre/Defense               .txt
+02_time_res/18_1_2/04_regression/Pre/Electrical Equipment  .csv
+02_time_res/18_1_2/04_regression/Pre/Electrical Equipment  .txt
+02_time_res/18_1_2/04_regression/Pre/Electronics           .csv
+02_time_res/18_1_2/04_regression/Pre/Electronics           .txt
+02_time_res/18_1_2/04_regression/Pre/Enviromental Protection .csv
+02_time_res/18_1_2/04_regression/Pre/Enviromental Protection .txt
+02_time_res/18_1_2/04_regression/Pre/Food&Beverage         .csv
+02_time_res/18_1_2/04_regression/Pre/Food&Beverage         .txt
+02_time_res/18_1_2/04_regression/Pre/Health Care           .csv
+02_time_res/18_1_2/04_regression/Pre/Health Care           .txt
+02_time_res/18_1_2/04_regression/Pre/Home Appliances       .csv
+02_time_res/18_1_2/04_regression/Pre/Home Appliances       .txt
+02_time_res/18_1_2/04_regression/Pre/Light-industry Manufacturing .csv
+02_time_res/18_1_2/04_regression/Pre/Light-industry Manufacturing .txt
+02_time_res/18_1_2/04_regression/Pre/Machinery Equipment   .csv
+02_time_res/18_1_2/04_regression/Pre/Machinery Equipment   .txt
+02_time_res/18_1_2/04_regression/Pre/Media                 .csv
+02_time_res/18_1_2/04_regression/Pre/Media                 .txt
+02_time_res/18_1_2/04_regression/Pre/Mining                .csv
+02_time_res/18_1_2/04_regression/Pre/Mining                .txt
+02_time_res/18_1_2/04_regression/Pre/Non-banking Finacials  .csv
+02_time_res/18_1_2/04_regression/Pre/Non-banking Finacials  .txt
+02_time_res/18_1_2/04_regression/Pre/Nonferrous Metal      .csv
+02_time_res/18_1_2/04_regression/Pre/Nonferrous Metal      .txt
+02_time_res/18_1_2/04_regression/Pre/Petrochemicals        .csv
+02_time_res/18_1_2/04_regression/Pre/Petrochemicals        .txt
+02_time_res/18_1_2/04_regression/Pre/Real Estate           .csv
+02_time_res/18_1_2/04_regression/Pre/Real Estate           .txt
+02_time_res/18_1_2/04_regression/Pre/Social Service        .csv
+02_time_res/18_1_2/04_regression/Pre/Social Service        .txt
+02_time_res/18_1_2/04_regression/Pre/Steel                 .csv
+02_time_res/18_1_2/04_regression/Pre/Steel                 .txt
+02_time_res/18_1_2/04_regression/Pre/Telecommunication     .csv
+02_time_res/18_1_2/04_regression/Pre/Telecommunication     .txt
+02_time_res/18_1_2/04_regression/Pre/Textile&Apparel       .csv
+02_time_res/18_1_2/04_regression/Pre/Textile&Apparel       .txt
+02_time_res/18_1_2/04_regression/Pre/Transportation        .csv
+02_time_res/18_1_2/04_regression/Pre/Transportation        .txt
+02_time_res/18_1_2/04_regression/Pre/Utilities.csv
+02_time_res/18_1_2/04_regression/Pre/Utilities.txt
+02_time_res/18_1_2/04_regression/Whole/Agriculture,forestry,livestock farming,fishery .csv
+02_time_res/18_1_2/04_regression/Whole/Agriculture,forestry,livestock farming,fishery .txt
+02_time_res/18_1_2/04_regression/Whole/Automobiles&Parts     .csv
+02_time_res/18_1_2/04_regression/Whole/Automobiles&Parts     .txt
+02_time_res/18_1_2/04_regression/Whole/Banks                  .csv
+02_time_res/18_1_2/04_regression/Whole/Banks                  .txt
+02_time_res/18_1_2/04_regression/Whole/Beauty Care           .csv
+02_time_res/18_1_2/04_regression/Whole/Beauty Care           .txt
+02_time_res/18_1_2/04_regression/Whole/Chemicals             .csv
+02_time_res/18_1_2/04_regression/Whole/Chemicals             .txt
+02_time_res/18_1_2/04_regression/Whole/Commerce&Retail       .csv
+02_time_res/18_1_2/04_regression/Whole/Commerce&Retail       .txt
+02_time_res/18_1_2/04_regression/Whole/Comprehensive         .csv
+02_time_res/18_1_2/04_regression/Whole/Comprehensive         .txt
+02_time_res/18_1_2/04_regression/Whole/Computer              .csv
+02_time_res/18_1_2/04_regression/Whole/Computer              .txt
+02_time_res/18_1_2/04_regression/Whole/Construction Materials .csv
+02_time_res/18_1_2/04_regression/Whole/Construction Materials .txt
+02_time_res/18_1_2/04_regression/Whole/Construction&Decoration .csv
+02_time_res/18_1_2/04_regression/Whole/Construction&Decoration .txt
+02_time_res/18_1_2/04_regression/Whole/Defense               .csv
+02_time_res/18_1_2/04_regression/Whole/Defense               .txt
+02_time_res/18_1_2/04_regression/Whole/Electrical Equipment  .csv
+02_time_res/18_1_2/04_regression/Whole/Electrical Equipment  .txt
+02_time_res/18_1_2/04_regression/Whole/Electronics           .csv
+02_time_res/18_1_2/04_regression/Whole/Electronics           .txt
+02_time_res/18_1_2/04_regression/Whole/Enviromental Protection .csv
+02_time_res/18_1_2/04_regression/Whole/Enviromental Protection .txt
+02_time_res/18_1_2/04_regression/Whole/Food&Beverage         .csv
+02_time_res/18_1_2/04_regression/Whole/Food&Beverage         .txt
+02_time_res/18_1_2/04_regression/Whole/Health Care           .csv
+02_time_res/18_1_2/04_regression/Whole/Health Care           .txt
+02_time_res/18_1_2/04_regression/Whole/Home Appliances       .csv
+02_time_res/18_1_2/04_regression/Whole/Home Appliances       .txt
+02_time_res/18_1_2/04_regression/Whole/Light-industry Manufacturing .csv
+02_time_res/18_1_2/04_regression/Whole/Light-industry Manufacturing .txt
+02_time_res/18_1_2/04_regression/Whole/Machinery Equipment   .csv
+02_time_res/18_1_2/04_regression/Whole/Machinery Equipment   .txt
+02_time_res/18_1_2/04_regression/Whole/Media                 .csv
+02_time_res/18_1_2/04_regression/Whole/Media                 .txt
+02_time_res/18_1_2/04_regression/Whole/Mining                .csv
+02_time_res/18_1_2/04_regression/Whole/Mining                .txt
+02_time_res/18_1_2/04_regression/Whole/Non-banking Finacials  .csv
+02_time_res/18_1_2/04_regression/Whole/Non-banking Finacials  .txt
+02_time_res/18_1_2/04_regression/Whole/Nonferrous Metal      .csv
+02_time_res/18_1_2/04_regression/Whole/Nonferrous Metal      .txt
+02_time_res/18_1_2/04_regression/Whole/Petrochemicals        .csv
+02_time_res/18_1_2/04_regression/Whole/Petrochemicals        .txt
+02_time_res/18_1_2/04_regression/Whole/Real Estate           .csv
+02_time_res/18_1_2/04_regression/Whole/Real Estate           .txt
+02_time_res/18_1_2/04_regression/Whole/Social Service        .csv
+02_time_res/18_1_2/04_regression/Whole/Social Service        .txt
+02_time_res/18_1_2/04_regression/Whole/Steel                 .csv
+02_time_res/18_1_2/04_regression/Whole/Steel                 .txt
+02_time_res/18_1_2/04_regression/Whole/Telecommunication     .csv
+02_time_res/18_1_2/04_regression/Whole/Telecommunication     .txt
+02_time_res/18_1_2/04_regression/Whole/Textile&Apparel       .csv
+02_time_res/18_1_2/04_regression/Whole/Textile&Apparel       .txt
+02_time_res/18_1_2/04_regression/Whole/Transportation        .csv
+02_time_res/18_1_2/04_regression/Whole/Transportation        .txt
+02_time_res/18_1_2/04_regression/Whole/Utilities.csv
+02_time_res/18_1_2/04_regression/Whole/Utilities.txt
+02_time_res/18_1_2/05_chow/chow_19.txt
+02_time_res/18_1_2/05_chow/chow_time.txt
+02_time_res/18_1_2/06_fig/Agriculture,forestry,livestock farming,fishery.png
+02_time_res/18_1_2/06_fig/Automobiles&Parts.png
+02_time_res/18_1_2/06_fig/Banks.png
+02_time_res/18_1_2/06_fig/Beauty Care.png
+02_time_res/18_1_2/06_fig/Chemicals.png
+02_time_res/18_1_2/06_fig/Commerce&Retail.png
+02_time_res/18_1_2/06_fig/Comprehensive.png
+02_time_res/18_1_2/06_fig/Computer.png
+02_time_res/18_1_2/06_fig/Construction Materials.png
+02_time_res/18_1_2/06_fig/Construction&Decoration.png
+02_time_res/18_1_2/06_fig/Defense.png
+02_time_res/18_1_2/06_fig/Electrical Equipment.png
+02_time_res/18_1_2/06_fig/Electronics.png
+02_time_res/18_1_2/06_fig/Enviromental Protection.png
+02_time_res/18_1_2/06_fig/Food&Beverage.png
+02_time_res/18_1_2/06_fig/Health Care.png
+02_time_res/18_1_2/06_fig/Home Appliances.png
+02_time_res/18_1_2/06_fig/Light-industry Manufacturing.png
+02_time_res/18_1_2/06_fig/Machinery Equipment.png
+02_time_res/18_1_2/06_fig/Media.png
+02_time_res/18_1_2/06_fig/Mining.png
+02_time_res/18_1_2/06_fig/Non-banking Finacials.png
+02_time_res/18_1_2/06_fig/Nonferrous Metal.png
+02_time_res/18_1_2/06_fig/Petrochemicals.png
+02_time_res/18_1_2/06_fig/Real Estate.png
+02_time_res/18_1_2/06_fig/Social Service.png
+02_time_res/18_1_2/06_fig/Steel.png
+02_time_res/18_1_2/06_fig/Telecommunication.png
+02_time_res/18_1_2/06_fig/Textile&Apparel.png
+02_time_res/18_1_2/06_fig/Transportation.png
+02_time_res/18_1_2/06_fig/Utilities.png
+02_time_res/18_1_2/07_analysis/Post.csv
+02_time_res/18_1_2/07_analysis/Pre.csv
+02_time_res/18_1_2/07_analysis/Whole.csv
+03_low_stock_price/01_under_60/01_CCK/00_program/00_plot.py
+03_low_stock_price/01_under_60/01_CCK/00_program/01_CSAD_t.py
+03_low_stock_price/01_under_60/01_CCK/00_program/02_split.py
+03_low_stock_price/01_under_60/01_CCK/00_program/03_stats.py
+03_low_stock_price/01_under_60/01_CCK/00_program/04_regression.py
+03_low_stock_price/01_under_60/01_CCK/00_program/05_chowtest_new.py
+03_low_stock_price/01_under_60/01_CCK/00_program/07_analysis.py
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Automobiles&Parts.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Banks.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Beauty Care.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Chemicals.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Commerce&Retail.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Comprehensive.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Computer.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Construction Materials.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Construction&Decoration.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Defense.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Electrical Equipment.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Electronics.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Enviromental Protection.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Food&Beverage.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Health Care.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Home Appliances.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Light-industry Manufacturing.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Machinery Equipment.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Media.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Mining.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Non-banking Finacials.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Nonferrous Metal.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Petrochemicals.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Real Estate.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Social Service.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Steel.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Telecommunication.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Textile&Apparel.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Transportation.CSV
+03_low_stock_price/01_under_60/01_CCK/01_original_data/Utilities.CSV
+03_low_stock_price/01_under_60/01_CCK/02_processed_data/CSAD_Post.csv
+03_low_stock_price/01_under_60/01_CCK/02_processed_data/CSAD_Pre.csv
+03_low_stock_price/01_under_60/01_CCK/02_processed_data/CSAD_Whole.csv
+03_low_stock_price/01_under_60/01_CCK/03_stats/CSAD_Post.csv
+03_low_stock_price/01_under_60/01_CCK/03_stats/CSAD_Pre.csv
+03_low_stock_price/01_under_60/01_CCK/03_stats/CSAD_Whole.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Banks.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Banks.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Beauty Care.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Beauty Care.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Chemicals.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Chemicals.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Commerce&Retail.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Commerce&Retail.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Comprehensive.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Comprehensive.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Computer.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Computer.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Construction Materials.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Construction Materials.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Construction&Decoration.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Construction&Decoration.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Defense.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Defense.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Electrical Equipment.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Electrical Equipment.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Electronics.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Electronics.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Enviromental Protection.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Enviromental Protection.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Food&Beverage.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Food&Beverage.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Health Care.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Health Care.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Home Appliances.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Home Appliances.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Machinery Equipment.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Machinery Equipment.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Media.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Media.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Mining.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Mining.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Petrochemicals.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Petrochemicals.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Real Estate.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Real Estate.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Social Service.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Social Service.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Steel.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Steel.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Telecommunication.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Telecommunication.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Textile&Apparel.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Textile&Apparel.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Transportation.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Transportation.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Utilities.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Post/Utilities.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Banks.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Banks.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Beauty Care.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Beauty Care.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Chemicals.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Chemicals.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Commerce&Retail.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Commerce&Retail.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Comprehensive.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Comprehensive.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Computer.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Computer.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Construction Materials.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Construction Materials.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Construction&Decoration.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Construction&Decoration.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Defense.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Defense.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Electrical Equipment.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Electrical Equipment.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Electronics.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Electronics.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Enviromental Protection.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Enviromental Protection.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Food&Beverage.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Food&Beverage.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Health Care.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Health Care.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Home Appliances.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Home Appliances.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Machinery Equipment.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Machinery Equipment.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Media.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Media.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Mining.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Mining.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Petrochemicals.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Petrochemicals.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Real Estate.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Real Estate.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Social Service.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Social Service.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Steel.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Steel.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Telecommunication.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Telecommunication.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Textile&Apparel.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Textile&Apparel.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Transportation.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Transportation.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Utilities.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Pre/Utilities.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Banks.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Banks.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Beauty Care.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Beauty Care.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Chemicals.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Chemicals.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Commerce&Retail.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Commerce&Retail.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Comprehensive.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Comprehensive.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Computer.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Computer.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Construction Materials.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Construction Materials.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Construction&Decoration.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Construction&Decoration.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Defense.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Defense.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Electrical Equipment.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Electrical Equipment.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Electronics.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Electronics.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Enviromental Protection.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Enviromental Protection.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Food&Beverage.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Food&Beverage.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Health Care.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Health Care.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Home Appliances.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Home Appliances.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Machinery Equipment.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Machinery Equipment.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Media.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Media.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Mining.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Mining.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Petrochemicals.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Petrochemicals.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Real Estate.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Real Estate.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Social Service.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Social Service.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Steel.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Steel.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Telecommunication.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Telecommunication.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Textile&Apparel.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Textile&Apparel.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Transportation.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Transportation.txt
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Utilities.csv
+03_low_stock_price/01_under_60/01_CCK/04_regression/Whole/Utilities.txt
+03_low_stock_price/01_under_60/01_CCK/05_chow/chow_19.txt
+03_low_stock_price/01_under_60/01_CCK/06_fig/Agriculture,forestry,livestock farming,fishery.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Automobiles&Parts.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Banks.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Beauty Care.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Chemicals.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Commerce&Retail.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Comprehensive.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Computer.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Construction Materials.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Construction&Decoration.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Defense.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Electrical Equipment.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Electronics.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Enviromental Protection.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Food&Beverage.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Health Care.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Home Appliances.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Light-industry Manufacturing.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Machinery Equipment.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Media.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Mining.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Non-banking Finacials.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Nonferrous Metal.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Petrochemicals.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Real Estate.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Social Service.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Steel.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Telecommunication.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Textile&Apparel.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Transportation.png
+03_low_stock_price/01_under_60/01_CCK/06_fig/Utilities.png
+03_low_stock_price/01_under_60/01_CCK/07_analysis/Post.csv
+03_low_stock_price/01_under_60/01_CCK/07_analysis/Pre.csv
+03_low_stock_price/01_under_60/01_CCK/07_analysis/Whole.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/00_program/00_plot.py
+03_low_stock_price/01_under_60/02_time_res/17_6_1/00_program/02_split.py
+03_low_stock_price/01_under_60/02_time_res/17_6_1/00_program/03_stats.py
+03_low_stock_price/01_under_60/02_time_res/17_6_1/00_program/04_regression.py
+03_low_stock_price/01_under_60/02_time_res/17_6_1/00_program/05_chowtest_19.py
+03_low_stock_price/01_under_60/02_time_res/17_6_1/00_program/06_chowtest_time.py
+03_low_stock_price/01_under_60/02_time_res/17_6_1/00_program/07_analysis.py
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Automobiles&Parts.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Banks.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Beauty Care.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Chemicals.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Commerce&Retail.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Comprehensive.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Computer.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Construction Materials.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Construction&Decoration.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Defense.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Electrical Equipment.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Electronics.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Enviromental Protection.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Food&Beverage.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Health Care.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Home Appliances.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Light-industry Manufacturing.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Machinery Equipment.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Media.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Mining.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Non-banking Finacials.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Nonferrous Metal.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Petrochemicals.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Real Estate.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Social Service.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Steel.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Telecommunication.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Textile&Apparel.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Transportation.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/01_original_data/Utilities.CSV
+03_low_stock_price/01_under_60/02_time_res/17_6_1/02_processed_data/CSAD_Post.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/02_processed_data/CSAD_Pre.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/02_processed_data/CSAD_Whole.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/03_stats/CSAD_Post.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/03_stats/CSAD_Pre.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/03_stats/CSAD_Whole.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Banks.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Banks.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Beauty Care.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Beauty Care.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Chemicals.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Chemicals.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Commerce&Retail.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Commerce&Retail.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Comprehensive.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Comprehensive.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Computer.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Computer.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Construction Materials.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Construction Materials.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Construction&Decoration.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Construction&Decoration.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Defense.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Defense.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Electrical Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Electrical Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Electronics.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Electronics.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Enviromental Protection.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Enviromental Protection.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Food&Beverage.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Food&Beverage.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Health Care.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Health Care.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Home Appliances.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Home Appliances.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Machinery Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Machinery Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Media.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Media.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Mining.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Mining.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Petrochemicals.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Petrochemicals.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Real Estate.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Real Estate.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Social Service.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Social Service.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Steel.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Steel.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Telecommunication.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Telecommunication.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Textile&Apparel.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Textile&Apparel.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Transportation.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Transportation.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Utilities.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Post/Utilities.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Banks.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Banks.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Beauty Care.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Beauty Care.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Chemicals.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Chemicals.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Commerce&Retail.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Commerce&Retail.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Comprehensive.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Comprehensive.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Computer.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Computer.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Construction Materials.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Construction Materials.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Construction&Decoration.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Construction&Decoration.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Defense.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Defense.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Electrical Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Electrical Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Electronics.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Electronics.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Enviromental Protection.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Enviromental Protection.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Food&Beverage.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Food&Beverage.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Health Care.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Health Care.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Home Appliances.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Home Appliances.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Machinery Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Machinery Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Media.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Media.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Mining.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Mining.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Petrochemicals.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Petrochemicals.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Real Estate.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Real Estate.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Social Service.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Social Service.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Steel.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Steel.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Telecommunication.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Telecommunication.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Textile&Apparel.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Textile&Apparel.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Transportation.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Transportation.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Utilities.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Pre/Utilities.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Banks.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Banks.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Beauty Care.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Beauty Care.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Chemicals.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Chemicals.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Commerce&Retail.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Commerce&Retail.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Comprehensive.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Comprehensive.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Computer.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Computer.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Construction Materials.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Construction Materials.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Construction&Decoration.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Construction&Decoration.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Defense.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Defense.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Electrical Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Electrical Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Electronics.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Electronics.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Enviromental Protection.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Enviromental Protection.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Food&Beverage.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Food&Beverage.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Health Care.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Health Care.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Home Appliances.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Home Appliances.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Machinery Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Machinery Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Media.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Media.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Mining.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Mining.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Petrochemicals.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Petrochemicals.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Real Estate.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Real Estate.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Social Service.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Social Service.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Steel.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Steel.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Telecommunication.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Telecommunication.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Textile&Apparel.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Textile&Apparel.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Transportation.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Transportation.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Utilities.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/04_regression/Whole/Utilities.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/05_chow/chow_19.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/05_chow/chow_time.txt
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Agriculture,forestry,livestock farming,fishery.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Automobiles&Parts.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Banks.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Beauty Care.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Chemicals.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Commerce&Retail.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Comprehensive.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Computer.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Construction Materials.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Construction&Decoration.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Defense.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Electrical Equipment.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Electronics.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Enviromental Protection.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Food&Beverage.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Health Care.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Home Appliances.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Light-industry Manufacturing.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Machinery Equipment.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Media.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Mining.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Non-banking Finacials.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Nonferrous Metal.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Petrochemicals.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Real Estate.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Social Service.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Steel.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Telecommunication.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Textile&Apparel.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Transportation.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/06_fig/Utilities.png
+03_low_stock_price/01_under_60/02_time_res/17_6_1/07_analysis/Post.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/07_analysis/Pre.csv
+03_low_stock_price/01_under_60/02_time_res/17_6_1/07_analysis/Whole.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/00_program/00_plot.py
+03_low_stock_price/01_under_60/02_time_res/18_1_2/00_program/02_split.py
+03_low_stock_price/01_under_60/02_time_res/18_1_2/00_program/03_stats.py
+03_low_stock_price/01_under_60/02_time_res/18_1_2/00_program/04_regression.py
+03_low_stock_price/01_under_60/02_time_res/18_1_2/00_program/05_chowtest_19.py
+03_low_stock_price/01_under_60/02_time_res/18_1_2/00_program/06_chowtest_time.py
+03_low_stock_price/01_under_60/02_time_res/18_1_2/00_program/07_analysis.py
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Automobiles&Parts.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Banks.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Beauty Care.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Chemicals.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Commerce&Retail.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Comprehensive.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Computer.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Construction Materials.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Construction&Decoration.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Defense.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Electrical Equipment.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Electronics.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Enviromental Protection.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Food&Beverage.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Health Care.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Home Appliances.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Light-industry Manufacturing.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Machinery Equipment.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Media.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Mining.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Non-banking Finacials.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Nonferrous Metal.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Petrochemicals.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Real Estate.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Social Service.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Steel.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Telecommunication.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Textile&Apparel.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Transportation.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/01_original_data/Utilities.CSV
+03_low_stock_price/01_under_60/02_time_res/18_1_2/02_processed_data/CSAD_Post.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/02_processed_data/CSAD_Pre.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/02_processed_data/CSAD_Whole.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/03_stats/CSAD_Post.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/03_stats/CSAD_Pre.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/03_stats/CSAD_Whole.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Banks.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Banks.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Beauty Care.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Beauty Care.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Chemicals.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Chemicals.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Commerce&Retail.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Commerce&Retail.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Comprehensive.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Comprehensive.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Computer.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Computer.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Construction Materials.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Construction Materials.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Construction&Decoration.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Construction&Decoration.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Defense.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Defense.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Electrical Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Electrical Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Electronics.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Electronics.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Enviromental Protection.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Enviromental Protection.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Food&Beverage.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Food&Beverage.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Health Care.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Health Care.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Home Appliances.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Home Appliances.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Machinery Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Machinery Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Media.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Media.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Mining.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Mining.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Petrochemicals.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Petrochemicals.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Real Estate.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Real Estate.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Social Service.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Social Service.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Steel.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Steel.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Telecommunication.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Telecommunication.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Textile&Apparel.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Textile&Apparel.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Transportation.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Transportation.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Utilities.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Post/Utilities.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Banks.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Banks.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Beauty Care.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Beauty Care.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Chemicals.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Chemicals.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Commerce&Retail.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Commerce&Retail.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Comprehensive.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Comprehensive.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Computer.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Computer.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Construction Materials.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Construction Materials.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Construction&Decoration.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Construction&Decoration.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Defense.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Defense.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Electrical Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Electrical Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Electronics.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Electronics.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Enviromental Protection.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Enviromental Protection.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Food&Beverage.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Food&Beverage.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Health Care.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Health Care.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Home Appliances.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Home Appliances.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Machinery Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Machinery Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Media.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Media.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Mining.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Mining.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Petrochemicals.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Petrochemicals.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Real Estate.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Real Estate.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Social Service.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Social Service.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Steel.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Steel.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Telecommunication.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Telecommunication.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Textile&Apparel.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Textile&Apparel.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Transportation.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Transportation.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Utilities.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Pre/Utilities.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Automobiles&Parts.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Automobiles&Parts.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Banks.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Banks.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Beauty Care.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Beauty Care.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Chemicals.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Chemicals.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Commerce&Retail.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Commerce&Retail.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Comprehensive.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Comprehensive.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Computer.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Computer.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Construction Materials.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Construction Materials.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Construction&Decoration.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Construction&Decoration.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Defense.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Defense.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Electrical Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Electrical Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Electronics.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Electronics.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Enviromental Protection.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Enviromental Protection.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Food&Beverage.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Food&Beverage.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Health Care.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Health Care.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Home Appliances.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Home Appliances.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Light-industry Manufacturing.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Light-industry Manufacturing.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Machinery Equipment.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Machinery Equipment.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Media.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Media.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Mining.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Mining.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Non-banking Finacials.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Non-banking Finacials.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Nonferrous Metal.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Nonferrous Metal.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Petrochemicals.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Petrochemicals.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Real Estate.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Real Estate.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Social Service.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Social Service.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Steel.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Steel.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Telecommunication.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Telecommunication.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Textile&Apparel.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Textile&Apparel.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Transportation.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Transportation.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Utilities.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/04_regression/Whole/Utilities.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/05_chow/chow_19.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/05_chow/chow_time.txt
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Agriculture,forestry,livestock farming,fishery.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Automobiles&Parts.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Banks.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Beauty Care.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Chemicals.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Commerce&Retail.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Comprehensive.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Computer.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Construction Materials.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Construction&Decoration.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Defense.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Electrical Equipment.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Electronics.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Enviromental Protection.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Food&Beverage.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Health Care.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Home Appliances.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Light-industry Manufacturing.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Machinery Equipment.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Media.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Mining.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Non-banking Finacials.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Nonferrous Metal.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Petrochemicals.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Real Estate.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Social Service.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Steel.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Telecommunication.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Textile&Apparel.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Transportation.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/06_fig/Utilities.png
+03_low_stock_price/01_under_60/02_time_res/18_1_2/07_analysis/Post.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/07_analysis/Pre.csv
+03_low_stock_price/01_under_60/02_time_res/18_1_2/07_analysis/Whole.csv
+03_low_stock_price/02_above_60/01_CCK/00_program/00_plot.py
+03_low_stock_price/02_above_60/01_CCK/00_program/01_CSAD_t.py
+03_low_stock_price/02_above_60/01_CCK/00_program/02_split.py
+03_low_stock_price/02_above_60/01_CCK/00_program/03_stats.py
+03_low_stock_price/02_above_60/01_CCK/00_program/04_regression.py
+03_low_stock_price/02_above_60/01_CCK/00_program/05_chowtest_new.py
+03_low_stock_price/02_above_60/01_CCK/00_program/07_analysis.py
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Automobiles&Parts.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Banks.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Beauty Care.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Chemicals.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Commerce&Retail.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Comprehensive.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Computer.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Construction Materials.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Construction&Decoration.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Defense.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Electrical Equipment.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Electronics.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Enviromental Protection.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Food&Beverage.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Health Care.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Home Appliances.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Light-industry Manufacturing.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Machinery Equipment.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Media.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Mining.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Non-banking Finacials.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Nonferrous Metal.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Petrochemicals.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Real Estate.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Social Service.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Steel.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Telecommunication.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Textile&Apparel.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Transportation.CSV
+03_low_stock_price/02_above_60/01_CCK/01_original_data/Utilities.CSV
+03_low_stock_price/02_above_60/01_CCK/02_processed_data/CSAD_Post.csv
+03_low_stock_price/02_above_60/01_CCK/02_processed_data/CSAD_Pre.csv
+03_low_stock_price/02_above_60/01_CCK/02_processed_data/CSAD_Whole.csv
+03_low_stock_price/02_above_60/01_CCK/03_stats/CSAD_Post.csv
+03_low_stock_price/02_above_60/01_CCK/03_stats/CSAD_Pre.csv
+03_low_stock_price/02_above_60/01_CCK/03_stats/CSAD_Whole.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Banks.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Banks.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Beauty Care.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Beauty Care.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Chemicals.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Chemicals.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Commerce&Retail.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Commerce&Retail.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Comprehensive.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Comprehensive.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Computer.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Computer.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Construction Materials.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Construction Materials.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Construction&Decoration.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Construction&Decoration.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Defense.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Defense.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Electrical Equipment.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Electrical Equipment.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Electronics.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Electronics.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Enviromental Protection.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Enviromental Protection.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Food&Beverage.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Food&Beverage.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Health Care.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Health Care.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Home Appliances.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Home Appliances.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Machinery Equipment.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Machinery Equipment.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Media.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Media.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Mining.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Mining.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Petrochemicals.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Petrochemicals.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Real Estate.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Real Estate.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Social Service.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Social Service.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Steel.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Steel.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Telecommunication.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Telecommunication.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Textile&Apparel.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Textile&Apparel.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Transportation.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Transportation.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Utilities.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Post/Utilities.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Banks.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Banks.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Beauty Care.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Beauty Care.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Chemicals.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Chemicals.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Commerce&Retail.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Commerce&Retail.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Comprehensive.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Comprehensive.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Computer.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Computer.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Construction Materials.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Construction Materials.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Construction&Decoration.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Construction&Decoration.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Defense.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Defense.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Electrical Equipment.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Electrical Equipment.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Electronics.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Electronics.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Enviromental Protection.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Enviromental Protection.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Food&Beverage.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Food&Beverage.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Health Care.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Health Care.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Home Appliances.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Home Appliances.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Machinery Equipment.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Machinery Equipment.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Media.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Media.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Mining.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Mining.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Petrochemicals.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Petrochemicals.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Real Estate.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Real Estate.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Social Service.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Social Service.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Steel.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Steel.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Telecommunication.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Telecommunication.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Textile&Apparel.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Textile&Apparel.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Transportation.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Transportation.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Utilities.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Pre/Utilities.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Banks.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Banks.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Beauty Care.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Beauty Care.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Chemicals.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Chemicals.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Commerce&Retail.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Commerce&Retail.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Comprehensive.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Comprehensive.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Computer.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Computer.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Construction Materials.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Construction Materials.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Construction&Decoration.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Construction&Decoration.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Defense.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Defense.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Electrical Equipment.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Electrical Equipment.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Electronics.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Electronics.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Enviromental Protection.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Enviromental Protection.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Food&Beverage.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Food&Beverage.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Health Care.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Health Care.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Home Appliances.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Home Appliances.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Machinery Equipment.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Machinery Equipment.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Media.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Media.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Mining.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Mining.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Petrochemicals.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Petrochemicals.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Real Estate.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Real Estate.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Social Service.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Social Service.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Steel.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Steel.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Telecommunication.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Telecommunication.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Textile&Apparel.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Textile&Apparel.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Transportation.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Transportation.txt
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Utilities.csv
+03_low_stock_price/02_above_60/01_CCK/04_regression/Whole/Utilities.txt
+03_low_stock_price/02_above_60/01_CCK/05_chow/chow_19.txt
+03_low_stock_price/02_above_60/01_CCK/06_fig/Agriculture,forestry,livestock farming,fishery.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Automobiles&Parts.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Banks.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Beauty Care.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Chemicals.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Commerce&Retail.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Comprehensive.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Computer.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Construction Materials.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Construction&Decoration.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Defense.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Electrical Equipment.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Electronics.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Enviromental Protection.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Food&Beverage.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Health Care.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Home Appliances.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Light-industry Manufacturing.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Machinery Equipment.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Media.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Mining.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Non-banking Finacials.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Nonferrous Metal.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Petrochemicals.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Real Estate.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Social Service.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Steel.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Telecommunication.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Textile&Apparel.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Transportation.png
+03_low_stock_price/02_above_60/01_CCK/06_fig/Utilities.png
+03_low_stock_price/02_above_60/01_CCK/07_analysis/Post.csv
+03_low_stock_price/02_above_60/01_CCK/07_analysis/Pre.csv
+03_low_stock_price/02_above_60/01_CCK/07_analysis/Whole.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/00_program/00_plot.py
+03_low_stock_price/02_above_60/02_time_res/17_6_1/00_program/02_split.py
+03_low_stock_price/02_above_60/02_time_res/17_6_1/00_program/03_stats.py
+03_low_stock_price/02_above_60/02_time_res/17_6_1/00_program/04_regression.py
+03_low_stock_price/02_above_60/02_time_res/17_6_1/00_program/05_chowtest_19.py
+03_low_stock_price/02_above_60/02_time_res/17_6_1/00_program/06_chowtest_time.py
+03_low_stock_price/02_above_60/02_time_res/17_6_1/00_program/07_analysis.py
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Automobiles&Parts.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Banks.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Beauty Care.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Chemicals.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Commerce&Retail.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Comprehensive.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Computer.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Construction Materials.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Construction&Decoration.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Defense.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Electrical Equipment.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Electronics.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Enviromental Protection.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Food&Beverage.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Health Care.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Home Appliances.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Light-industry Manufacturing.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Machinery Equipment.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Media.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Mining.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Non-banking Finacials.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Nonferrous Metal.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Petrochemicals.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Real Estate.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Social Service.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Steel.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Telecommunication.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Textile&Apparel.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Transportation.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/01_original_data/Utilities.CSV
+03_low_stock_price/02_above_60/02_time_res/17_6_1/02_processed_data/CSAD_Post.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/02_processed_data/CSAD_Pre.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/02_processed_data/CSAD_Whole.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/03_stats/CSAD_Post.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/03_stats/CSAD_Pre.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/03_stats/CSAD_Whole.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Banks.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Banks.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Beauty Care.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Beauty Care.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Chemicals.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Chemicals.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Commerce&Retail.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Commerce&Retail.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Comprehensive.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Comprehensive.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Computer.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Computer.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Construction Materials.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Construction Materials.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Construction&Decoration.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Construction&Decoration.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Defense.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Defense.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Electrical Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Electrical Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Electronics.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Electronics.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Enviromental Protection.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Enviromental Protection.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Food&Beverage.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Food&Beverage.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Health Care.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Health Care.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Home Appliances.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Home Appliances.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Machinery Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Machinery Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Media.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Media.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Mining.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Mining.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Petrochemicals.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Petrochemicals.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Real Estate.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Real Estate.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Social Service.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Social Service.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Steel.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Steel.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Telecommunication.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Telecommunication.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Textile&Apparel.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Textile&Apparel.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Transportation.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Transportation.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Utilities.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Post/Utilities.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Banks.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Banks.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Beauty Care.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Beauty Care.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Chemicals.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Chemicals.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Commerce&Retail.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Commerce&Retail.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Comprehensive.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Comprehensive.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Computer.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Computer.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Construction Materials.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Construction Materials.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Construction&Decoration.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Construction&Decoration.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Defense.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Defense.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Electrical Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Electrical Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Electronics.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Electronics.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Enviromental Protection.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Enviromental Protection.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Food&Beverage.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Food&Beverage.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Health Care.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Health Care.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Home Appliances.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Home Appliances.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Machinery Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Machinery Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Media.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Media.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Mining.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Mining.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Petrochemicals.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Petrochemicals.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Real Estate.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Real Estate.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Social Service.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Social Service.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Steel.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Steel.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Telecommunication.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Telecommunication.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Textile&Apparel.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Textile&Apparel.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Transportation.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Transportation.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Utilities.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Pre/Utilities.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Banks.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Banks.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Beauty Care.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Beauty Care.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Chemicals.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Chemicals.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Commerce&Retail.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Commerce&Retail.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Comprehensive.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Comprehensive.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Computer.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Computer.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Construction Materials.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Construction Materials.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Construction&Decoration.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Construction&Decoration.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Defense.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Defense.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Electrical Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Electrical Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Electronics.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Electronics.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Enviromental Protection.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Enviromental Protection.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Food&Beverage.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Food&Beverage.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Health Care.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Health Care.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Home Appliances.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Home Appliances.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Machinery Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Machinery Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Media.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Media.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Mining.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Mining.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Petrochemicals.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Petrochemicals.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Real Estate.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Real Estate.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Social Service.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Social Service.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Steel.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Steel.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Telecommunication.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Telecommunication.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Textile&Apparel.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Textile&Apparel.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Transportation.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Transportation.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Utilities.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/04_regression/Whole/Utilities.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/05_chow/chow_19.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/05_chow/chow_time.txt
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Agriculture,forestry,livestock farming,fishery.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Automobiles&Parts.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Banks.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Beauty Care.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Chemicals.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Commerce&Retail.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Comprehensive.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Computer.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Construction Materials.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Construction&Decoration.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Defense.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Electrical Equipment.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Electronics.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Enviromental Protection.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Food&Beverage.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Health Care.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Home Appliances.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Light-industry Manufacturing.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Machinery Equipment.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Media.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Mining.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Non-banking Finacials.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Nonferrous Metal.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Petrochemicals.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Real Estate.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Social Service.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Steel.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Telecommunication.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Textile&Apparel.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Transportation.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/06_fig/Utilities.png
+03_low_stock_price/02_above_60/02_time_res/17_6_1/07_analysis/Post.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/07_analysis/Pre.csv
+03_low_stock_price/02_above_60/02_time_res/17_6_1/07_analysis/Whole.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/00_program/00_plot.py
+03_low_stock_price/02_above_60/02_time_res/18_1_2/00_program/02_split.py
+03_low_stock_price/02_above_60/02_time_res/18_1_2/00_program/03_stats.py
+03_low_stock_price/02_above_60/02_time_res/18_1_2/00_program/04_regression.py
+03_low_stock_price/02_above_60/02_time_res/18_1_2/00_program/05_chowtest_19.py
+03_low_stock_price/02_above_60/02_time_res/18_1_2/00_program/06_chowtest_time.py
+03_low_stock_price/02_above_60/02_time_res/18_1_2/00_program/07_analysis.py
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Agriculture,forestry,livestock farming,fishery.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Automobiles&Parts.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Banks.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Beauty Care.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Chemicals.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Commerce&Retail.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Comprehensive.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Computer.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Construction Materials.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Construction&Decoration.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Defense.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Electrical Equipment.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Electronics.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Enviromental Protection.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Food&Beverage.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Health Care.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Home Appliances.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Light-industry Manufacturing.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Machinery Equipment.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Media.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Mining.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Non-banking Finacials.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Nonferrous Metal.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Petrochemicals.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Real Estate.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Social Service.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Steel.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Telecommunication.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Textile&Apparel.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Transportation.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/01_original_data/Utilities.CSV
+03_low_stock_price/02_above_60/02_time_res/18_1_2/02_processed_data/CSAD_Post.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/02_processed_data/CSAD_Pre.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/02_processed_data/CSAD_Whole.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/03_stats/CSAD_Post.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/03_stats/CSAD_Pre.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/03_stats/CSAD_Whole.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Banks.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Banks.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Beauty Care.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Beauty Care.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Chemicals.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Chemicals.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Commerce&Retail.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Commerce&Retail.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Comprehensive.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Comprehensive.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Computer.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Computer.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Construction Materials.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Construction Materials.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Construction&Decoration.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Construction&Decoration.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Defense.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Defense.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Electrical Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Electrical Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Electronics.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Electronics.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Enviromental Protection.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Enviromental Protection.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Food&Beverage.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Food&Beverage.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Health Care.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Health Care.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Home Appliances.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Home Appliances.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Machinery Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Machinery Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Media.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Media.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Mining.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Mining.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Petrochemicals.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Petrochemicals.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Real Estate.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Real Estate.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Social Service.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Social Service.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Steel.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Steel.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Telecommunication.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Telecommunication.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Textile&Apparel.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Textile&Apparel.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Transportation.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Transportation.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Utilities.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Post/Utilities.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Banks.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Banks.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Beauty Care.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Beauty Care.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Chemicals.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Chemicals.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Commerce&Retail.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Commerce&Retail.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Comprehensive.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Comprehensive.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Computer.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Computer.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Construction Materials.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Construction Materials.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Construction&Decoration.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Construction&Decoration.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Defense.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Defense.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Electrical Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Electrical Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Electronics.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Electronics.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Enviromental Protection.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Enviromental Protection.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Food&Beverage.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Food&Beverage.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Health Care.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Health Care.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Home Appliances.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Home Appliances.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Machinery Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Machinery Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Media.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Media.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Mining.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Mining.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Petrochemicals.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Petrochemicals.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Real Estate.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Real Estate.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Social Service.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Social Service.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Steel.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Steel.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Telecommunication.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Telecommunication.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Textile&Apparel.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Textile&Apparel.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Transportation.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Transportation.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Utilities.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Pre/Utilities.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Agriculture,forestry,livestock farming,fishery.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Automobiles&Parts.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Automobiles&Parts.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Banks.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Banks.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Beauty Care.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Beauty Care.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Chemicals.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Chemicals.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Commerce&Retail.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Commerce&Retail.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Comprehensive.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Comprehensive.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Computer.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Computer.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Construction Materials.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Construction Materials.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Construction&Decoration.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Construction&Decoration.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Defense.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Defense.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Electrical Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Electrical Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Electronics.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Electronics.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Enviromental Protection.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Enviromental Protection.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Food&Beverage.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Food&Beverage.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Health Care.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Health Care.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Home Appliances.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Home Appliances.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Light-industry Manufacturing.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Light-industry Manufacturing.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Machinery Equipment.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Machinery Equipment.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Media.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Media.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Mining.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Mining.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Non-banking Finacials.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Non-banking Finacials.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Nonferrous Metal.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Nonferrous Metal.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Petrochemicals.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Petrochemicals.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Real Estate.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Real Estate.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Social Service.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Social Service.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Steel.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Steel.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Telecommunication.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Telecommunication.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Textile&Apparel.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Textile&Apparel.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Transportation.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Transportation.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Utilities.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/04_regression/Whole/Utilities.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/05_chow/chow_19.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/05_chow/chow_time.txt
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Agriculture,forestry,livestock farming,fishery.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Automobiles&Parts.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Banks.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Beauty Care.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Chemicals.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Commerce&Retail.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Comprehensive.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Computer.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Construction Materials.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Construction&Decoration.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Defense.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Electrical Equipment.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Electronics.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Enviromental Protection.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Food&Beverage.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Health Care.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Home Appliances.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Light-industry Manufacturing.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Machinery Equipment.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Media.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Mining.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Non-banking Finacials.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Nonferrous Metal.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Petrochemicals.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Real Estate.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Social Service.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Steel.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Telecommunication.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Textile&Apparel.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Transportation.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/06_fig/Utilities.png
+03_low_stock_price/02_above_60/02_time_res/18_1_2/07_analysis/Post.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/07_analysis/Pre.csv
+03_low_stock_price/02_above_60/02_time_res/18_1_2/07_analysis/Whole.csv
+__pycache__/chowtest.cpython-310.pyc
+paper/新冠疫情与羊群行为：以中国股市为例.pdf
+paper/article_4-blx.bib
+paper/article_4.pdf
+paper/article_4.run.xml
+paper/article_4.synctex.gz
+paper/article_4.tex
+paper/csp_11_366.bib
+paper/paper-blx.bib
+paper/paper.run.xml
+paper/paper.synctex.gz
+paper/paper.tex
+paper/structure.tex
+paper/Figures/.DS_Store
+paper/Figures/17_fig/Agriculture,forestry,livestock farming,fishery.png
+paper/Figures/17_fig/Automobiles&Parts.png
+paper/Figures/17_fig/Banks.png
+paper/Figures/17_fig/Beauty Care.png
+paper/Figures/17_fig/Chemicals.png
+paper/Figures/17_fig/Commerce&Retail.png
+paper/Figures/17_fig/Comprehensive.png
+paper/Figures/17_fig/Computer.png
+paper/Figures/17_fig/Construction Materials.png
+paper/Figures/17_fig/Construction&Decoration.png
+paper/Figures/17_fig/Defense.png
+paper/Figures/17_fig/Electrical Equipment.png
+paper/Figures/17_fig/Electronics.png
+paper/Figures/17_fig/Enviromental Protection.png
+paper/Figures/17_fig/Food&Beverage.png
+paper/Figures/17_fig/Health Care.png
+paper/Figures/17_fig/Home Appliances.png
+paper/Figures/17_fig/Light-industry Manufacturing.png
+paper/Figures/17_fig/Machinery Equipment.png
+paper/Figures/17_fig/Media.png
+paper/Figures/17_fig/Mining.png
+paper/Figures/17_fig/Non-banking Finacials.png
+paper/Figures/17_fig/Nonferrous Metal.png
+paper/Figures/17_fig/Petrochemicals.png
+paper/Figures/17_fig/Real Estate.png
+paper/Figures/17_fig/Social Service.png
+paper/Figures/17_fig/Steel.png
+paper/Figures/17_fig/Telecommunication.png
+paper/Figures/17_fig/Textile&Apparel.png
+paper/Figures/17_fig/Transportation.png
+paper/Figures/17_fig/Utilities.png
+paper/Figures/18_fig/Agriculture,forestry,livestock farming,fishery.png
+paper/Figures/18_fig/Automobiles&Parts.png
+paper/Figures/18_fig/Banks.png
+paper/Figures/18_fig/Beauty Care.png
+paper/Figures/18_fig/Chemicals.png
+paper/Figures/18_fig/Commerce&Retail.png
+paper/Figures/18_fig/Comprehensive.png
+paper/Figures/18_fig/Computer.png
+paper/Figures/18_fig/Construction Materials.png
+paper/Figures/18_fig/Construction&Decoration.png
+paper/Figures/18_fig/Defense.png
+paper/Figures/18_fig/Electrical Equipment.png
+paper/Figures/18_fig/Electronics.png
+paper/Figures/18_fig/Enviromental Protection.png
+paper/Figures/18_fig/Food&Beverage.png
+paper/Figures/18_fig/Health Care.png
+paper/Figures/18_fig/Home Appliances.png
+paper/Figures/18_fig/Light-industry Manufacturing.png
+paper/Figures/18_fig/Machinery Equipment.png
+paper/Figures/18_fig/Media.png
+paper/Figures/18_fig/Mining.png
+paper/Figures/18_fig/Non-banking Finacials.png
+paper/Figures/18_fig/Nonferrous Metal.png
+paper/Figures/18_fig/Petrochemicals.png
+paper/Figures/18_fig/Real Estate.png
+paper/Figures/18_fig/Social Service.png
+paper/Figures/18_fig/Steel.png
+paper/Figures/18_fig/Telecommunication.png
+paper/Figures/18_fig/Textile&Apparel.png
+paper/Figures/18_fig/Transportation.png
+paper/Figures/18_fig/Utilities.png
+paper/Figures/CCK_fig/Agriculture,forestry,livestock farming,fishery.png
+paper/Figures/CCK_fig/Automobiles&Parts.png
+paper/Figures/CCK_fig/Banks.png
+paper/Figures/CCK_fig/Beauty Care.png
+paper/Figures/CCK_fig/Chemicals.png
+paper/Figures/CCK_fig/Commerce&Retail.png
+paper/Figures/CCK_fig/Comprehensive.png
+paper/Figures/CCK_fig/Computer.png
+paper/Figures/CCK_fig/Construction Materials.png
+paper/Figures/CCK_fig/Construction&Decoration.png
+paper/Figures/CCK_fig/Defense.png
+paper/Figures/CCK_fig/Electrical Equipment.png
+paper/Figures/CCK_fig/Electronics.png
+paper/Figures/CCK_fig/Enviromental Protection.png
+paper/Figures/CCK_fig/Food&Beverage.png
+paper/Figures/CCK_fig/Health Care.png
+paper/Figures/CCK_fig/Home Appliances.png
+paper/Figures/CCK_fig/Light-industry Manufacturing.png
+paper/Figures/CCK_fig/Machinery Equipment.png
+paper/Figures/CCK_fig/Media.png
+paper/Figures/CCK_fig/Mining.png
+paper/Figures/CCK_fig/Non-banking Finacials.png
+paper/Figures/CCK_fig/Nonferrous Metal.png
+paper/Figures/CCK_fig/Petrochemicals.png
+paper/Figures/CCK_fig/Real Estate.png
+paper/Figures/CCK_fig/Social Service.png
+paper/Figures/CCK_fig/Steel.png
+paper/Figures/CCK_fig/Telecommunication.png
+paper/Figures/CCK_fig/Textile&Apparel.png
+paper/Figures/CCK_fig/Transportation.png
+paper/Figures/CCK_fig/Utilities.png
